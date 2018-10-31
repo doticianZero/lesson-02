@@ -1,4 +1,4 @@
-# noob2noob-01
+# noob Lesson-01
 Showcase repo for JS and JQ noobs
 
 
